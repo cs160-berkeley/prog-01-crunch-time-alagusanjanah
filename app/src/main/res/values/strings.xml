@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Crunch</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pushup">PushupActivity</string>
+    <string name="title_activity_pushupcal">PushupcalActivity</string>
+    <string name="title_activity_calculate">calculateActivity</string>
+    <string name="title_activity_equiv">EquivActivity</string>
+</resources>
